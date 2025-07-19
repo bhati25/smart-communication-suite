@@ -1,0 +1,6 @@
+⚠️ Note: Each script may require customization and modifications based on specific organizational workflows, form structures, email templates, or frequency of operation.
+labelnemail.gs
+moveemail.gs
+followemail.gs
+sendemail.gs
+genemail.gs
